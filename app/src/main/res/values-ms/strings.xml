@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="collage">kolaj</string>
+    <string name="load">muatan</string>
+    <string name="adjust">menyesuaikan</string>
+    <string name="layout">susunan papan ketik</string>
+    <string name="background">latar belakang</string>
+    <string name="space">"ruang "</string>
+    <string name="ratio">"nisbah "</string>
+    <string name="camera">"kamera "</string>
+    <string name="saved_area">kawasan yang disimpan</string>
+    <string name="swap">"pertukaran "</string>
+    <string name="delete">"padam "</string>
+    <string name="fill">"isi "</string>
+    <string name="inside">"dalam "</string>
+    <string name="filter">"penapis "</string>
+    <string name="left">"kiri "</string>
+    <string name="right">"kanan "</string>
+    <string name="horizontal">"mendatar "</string>
+    <string name="size">"saiz "</string>
+</resources>

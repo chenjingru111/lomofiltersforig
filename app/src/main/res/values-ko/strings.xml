@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="collage">콜라주</string>
+    <string name="load">로드</string>
+    <string name="adjust">조정하다</string>
+    <string name="layout">레이아웃</string>
+    <string name="background">"배경 "</string>
+    <string name="space">"공간 "</string>
+    <string name="ratio">"비율 "</string>
+    <string name="camera">"카메라 "</string>
+    <string name="saved_area">저장된 영역</string>
+    <string name="swap">"교환하다 "</string>
+    <string name="delete">삭제하다</string>
+    <string name="fill">"채우다 "</string>
+    <string name="inside">"내부에 "</string>
+    <string name="filter">"필터 "</string>
+    <string name="left">왼쪽</string>
+    <string name="right">"오른쪽 "</string>
+    <string name="horizontal">"수평 "</string>
+    <string name="size">"크기 "</string>
+</resources>

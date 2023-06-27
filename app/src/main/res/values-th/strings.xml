@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="collage">คอลลาจ</string>
+    <string name="load">โหลด</string>
+    <string name="adjust">ปรับแต่ง</string>
+    <string name="layout">เลย์เอาท์</string>
+    <string name="background">พื้นหลัง</string>
+    <string name="space">"พื้นที่ "</string>
+    <string name="ratio">"อัตราส่วน "</string>
+    <string name="camera">กล้องถ่ายภาพ</string>
+    <string name="saved_area">พื้นที่ที่บันทึกไว้</string>
+    <string name="swap">แลกเปลี่ยน</string>
+    <string name="delete">ลบ</string>
+    <string name="fill">"เติม "</string>
+    <string name="inside">ด้านใน</string>
+    <string name="filter">"กรอง "</string>
+    <string name="left">"ซ้าย "</string>
+    <string name="right">"ขวา "</string>
+    <string name="horizontal">แนวนอน</string>
+    <string name="size">"ขนาด "</string>
+</resources>

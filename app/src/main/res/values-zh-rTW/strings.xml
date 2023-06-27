@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="collage">拼貼</string>
+    <string name="load">載入</string>
+    <string name="adjust">調整</string>
+    <string name="layout">版面設計</string>
+    <string name="background">"背景 "</string>
+    <string name="space">"空間 "</string>
+    <string name="ratio">"比率 "</string>
+    <string name="camera">"相機 "</string>
+    <string name="saved_area">已儲存區域</string>
+    <string name="swap">交换</string>
+    <string name="delete">刪除</string>
+    <string name="fill">填充</string>
+    <string name="inside">內部</string>
+    <string name="filter">過濾器</string>
+    <string name="left">左</string>
+    <string name="right">右</string>
+    <string name="horizontal">水平</string>
+    <string name="size">尺寸</string>
+</resources>

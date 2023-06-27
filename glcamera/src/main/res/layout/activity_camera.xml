@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--<View
+        android:id="@+id/overlay_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />-->
+
+    <RelativeLayout
+        android:id="@+id/root_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".CameraActivity">
+
+    </RelativeLayout>
+
+
+    <SeekBar
+        android:id="@+id/brightness_seekbar"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:max="255"
+        android:rotation="90"
+        android:progress="0"
+        android:layout_marginTop="260dp"
+        android:layout_marginLeft="120dp"/>
+
+    <ImageView
+        android:id="@+id/iv_back"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/back"/>
+
+    <RelativeLayout
+        android:layout_gravity="center_horizontal|bottom"
+        android:id="@+id/fl_camera"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:layout_width="match_parent">
+
+        <ImageView
+            android:id="@+id/img_camera"
+            android:layout_centerHorizontal="true"
+            android:layout_height="80dp"
+            android:layout_width="80dp"
+            android:src="@drawable/take_camera" />
+
+        <ImageView
+            android:id="@+id/iv_lookphoto"
+            android:layout_toLeftOf="@+id/img_camera"
+            android:layout_marginRight="45dp"
+            android:layout_centerVertical="true"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/picture_1"/>
+
+        <ImageView
+            android:id="@+id/iv_light"
+            android:layout_toRightOf="@+id/img_camera"
+            android:layout_marginLeft="45dp"
+            android:layout_centerVertical="true"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/picture_2"/>
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rl_choose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+    </androidx.recyclerview.widget.RecyclerView>
+
+</FrameLayout>

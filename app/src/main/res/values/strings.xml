@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">Lomo Filters for IG</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="collage">Collage</string>
+    <string name="load">Load</string>
+    <string name="adjust">Adjust</string>
+    <string name="layout">Layout</string>
+    <string name="background">Background</string>
+    <string name="space">Space</string>
+    <string name="ratio">Ratio</string>
+    <string name="camera">Camera</string>
+    <string name="saved_area">Saved Area</string>
+    <string name="swap">Swap</string>
+    <string name="delete">Delete</string>
+    <string name="fill">Fill</string>
+    <string name="inside">Inside</string>
+    <string name="filter">Filter</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="size">size</string>
+</resources>

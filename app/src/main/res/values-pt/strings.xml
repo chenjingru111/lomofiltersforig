@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="collage">colagem</string>
+    <string name="load">carregar</string>
+    <string name="adjust">ajustar</string>
+    <string name="layout">layout</string>
+    <string name="background">"fundo "</string>
+    <string name="space">"espaço "</string>
+    <string name="ratio">"proporção "</string>
+    <string name="camera">"câmera "</string>
+    <string name="saved_area">área salva</string>
+    <string name="swap">"troca "</string>
+    <string name="delete">"excluir "</string>
+    <string name="fill">"preencher "</string>
+    <string name="inside">"dentro "</string>
+    <string name="filter">"filtro "</string>
+    <string name="left">esquerda</string>
+    <string name="right">"direita "</string>
+    <string name="horizontal">"horizontal "</string>
+    <string name="size">"tamanho "</string>
+</resources>

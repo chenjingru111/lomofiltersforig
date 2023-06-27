@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="collage">コラージュ</string>
+    <string name="load">ロード</string>
+    <string name="adjust">調整する</string>
+    <string name="layout">レイアウト</string>
+    <string name="background">"背景 "</string>
+    <string name="space">"スペース "</string>
+    <string name="ratio">"比率 "</string>
+    <string name="camera">カメラ</string>
+    <string name="saved_area">保存済みエリア</string>
+    <string name="swap">交換する</string>
+    <string name="delete">削除する</string>
+    <string name="fill">"埋める "</string>
+    <string name="inside">"内側 "</string>
+    <string name="filter">フィルター</string>
+    <string name="left">"左 "</string>
+    <string name="right">"右 "</string>
+    <string name="horizontal">"水平 "</string>
+    <string name="size">サイズ</string>
+</resources>
